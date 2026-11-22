@@ -1,0 +1,42 @@
+# CCS build output
+Debug/
+Release/
+*.out
+*.map
+*.obj
+*.o
+*.d
+*.pp
+*.asm
+*.abs
+*.hex
+*.bin
+*.lst
+
+# Generated SysConfig sources
+ti_msp_dl_config.c
+ti_msp_dl_config.h
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# IDE and local tooling
+.theia/
+.settings/
+.clangd
+*.launch
+.metadata/
+
+# Auto-generated documentation
+README.html
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
