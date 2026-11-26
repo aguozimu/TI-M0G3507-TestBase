@@ -4,6 +4,8 @@
 
 > 当前版本为 `2026-11-22` 的代码归档。
 
+> 立创开源广场项目页：[TI-M0G3507-TestBase](https://oshwhub.com/qwqemm/project_iroydjzk)
+
 ## 主要功能
 
 - 双直流电机 PWM 驱动与正反转控制
